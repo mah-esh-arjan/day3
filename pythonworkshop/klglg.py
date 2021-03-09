@@ -4,4 +4,4 @@
 mass=float(input("enter the mass of person in kg: "))
 height=float(input("enter the height ofa person in meter: "))
 BMI = (mass/(height*height))
-print(f"The BMI index of a person is {BMI}")
+print(f"The BMI index of a person is {BMI}")a
